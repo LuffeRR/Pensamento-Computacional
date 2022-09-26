@@ -1,12 +1,12 @@
 
 body{
-    background-color:rgb(35, 250, 7)
+    background-color:rgb(0, 0, 0)
     }
     
      h1{
     color:rgb(19, 19, 31) ;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    background:dimgray ;
+    background:rgb(248, 242, 242) ;
     }
     
     :
@@ -14,5 +14,5 @@ body{
     color:silver ;
     font-family:Arial, Helvetica, sans-serif ;
     font-size: ;
-    background:rgb(0, 0, 0) ;
+    background:rgb(231, 9, 9)0) ;
     }
