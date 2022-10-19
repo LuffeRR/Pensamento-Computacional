@@ -17,3 +17,7 @@ body{
     text-align: center;
     background:rgb(45, 45, 45) ;
     }
+
+    #banner {
+        width: 100%;
+    }
